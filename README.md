@@ -165,4 +165,4 @@ kubectl apply -f manifest_tpl/deployment-prod.yaml
 
 ## 许可证
 
-MIT License
+Apache License
